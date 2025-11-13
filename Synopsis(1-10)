@@ -1,0 +1,69 @@
+Exercise 1: Prime Number Check
+
+This program checks if a given number is prime or not.
+It takes an integer input and verifies if it has any divisors other than 1 and itself.
+If no divisors are found, it prints True, else False.
+This helps understand loops, conditions, and number checking in Python.
+
+Exercise 2: Filter Even Numbers
+
+This program takes a list of integers and finds the even numbers.
+It creates a new list containing only the even numbers.
+The even numbers are sorted in descending order.
+This helps understand loops, lists, and basic filtering in Python.
+
+Exercise 3: Unique Sorted List from Strings
+
+This program starts with a list of strings.
+It converts the list to a tuple and then to a set to remove duplicates.
+The unique elements are converted back to a list and sorted alphabetically.
+This helps understand data type conversion, sets, and sorting in Python.
+
+Exercise 4: Count Vowels in Words
+
+This program takes a list of words and counts vowels in each word.
+It creates a dictionary with words as keys and vowel counts as values.
+It uses dictionary comprehension to create the dictionary efficiently.
+This helps understand strings, loops, conditionals, and dictionary operations in Python.
+
+Exercise 5: NumPy Matrix and Diagonal Sum
+
+This program creates a 5×5 matrix using NumPy with values from 1 to 25.
+It extracts the diagonal elements from the matrix.
+It calculates the sum of the diagonal elements.
+This helps understand NumPy arrays, indexing, and basic matrix operations.
+
+Exercise 6: Pandas Series and Temperature Conversion
+
+This program creates a Pandas Series from a list of Celsius temperatures.
+It converts the temperatures to Fahrenheit using a formula.
+The converted temperatures are stored in a new Series with the same index.
+This helps understand Pandas Series, element-wise operations, and indexing.
+
+Exercise 7: Filter Employees by Salary Percentile
+
+This program creates a DataFrame with employee names, departments, and salaries.
+It calculates the 75th percentile of salaries.
+Employees earning more than this percentile are filtered and returned.
+This helps understand DataFrame operations, filtering, and percentiles in Pandas.
+
+Exercise 8: Sales Aggregation and Bar Chart
+
+This program creates a sales DataFrame with product categories and sales figures.
+It calculates total sales per product category using aggregation.
+It visualizes the results using a bar chart.
+This helps understand grouping, aggregation, and data visualization in Python.
+
+Exercise 9: Classes and Inheritance
+
+This program demonstrates object-oriented programming in Python.
+A base class Vehicle is created with make and model attributes.
+A subclass Car inherits Vehicle and adds num_doors, with a method to display all attributes.
+This helps understand classes, inheritance, and methods in Python.
+
+Exercise 10: Bank Account Class (Encapsulation)
+
+This program demonstrates encapsulation using a BankAccount class.
+It has a private balance attribute with deposit, withdrawal, and balance enquiry methods.
+The withdrawal method ensures the balance never goes negative.
+This helps understand private attributes, methods, and OOP principles in Python.
